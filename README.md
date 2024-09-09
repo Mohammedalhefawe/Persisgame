@@ -1,2 +1,2 @@
-![Logo](Frame 6.png)
+![Logo](Frame.png)
 # :sparkles::sparkles: Persis_game
